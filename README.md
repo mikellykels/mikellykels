@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Metrics](/github-metrics.svg)
+![IsoCalender](/metrics.plugin.isocalendar.fullyear.svg)
+
+
 <!--
 **mikellykels/mikellykels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
