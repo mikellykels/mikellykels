@@ -1,7 +1,14 @@
-### Hi there 👋
-
-![Metrics](/github-metrics.svg)
-![IsoCalender](/metrics.plugin.isocalendar.fullyear.svg)
+<p align="center">
+  <a href="https://github.com/mikellykels">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikellykels&theme=2077" />
+  </a>
+  <a href="https://github.com/mikellykels">
+    <img src="https://streak-stats.demolab.com?user=mikellykels&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mikellykels">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikellykels&theme=2077" />
+  </a>
+</p>
 
 
 <!--
