@@ -8,6 +8,9 @@
   <a href="https://github.com/mikellykels">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikellykels&theme=2077" />
   </a>
+   <a href="https://github.com/mikellykels">
+    <img src="metrics.plugin.languages.details.svg" />
+  </a>
 </p>
 
 
