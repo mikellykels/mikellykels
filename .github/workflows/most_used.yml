@@ -19,7 +19,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: Kelly Carino, Mikaela Carino, mikellykels, mikellykels@users.noreply.github.com, kelly@sentry.io, kelly@getsentry.com, kelly.carino@lightstep.com
+          commits_authoring: Kelly Carino, Mikaela Carino, mikellykels, mikellykels@users.noreply.github.com, mikaela.carino@gmail.com, kelly@sentry.io, kelly@getsentry.com, kelly.carino@lightstep.com
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
